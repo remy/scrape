@@ -1,0 +1,5 @@
+Usage: cat file.html | scrape <selector>
+
+Options:
+  --text ........... return .innerText
+  --version ........ current version
