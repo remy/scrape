@@ -1,6 +1,6 @@
 {
   "name": "@remy/scrape",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Super simplistic CLI markup scraper tool",
   "main": "lib/index.js",
   "scripts": {
